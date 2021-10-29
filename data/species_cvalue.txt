@@ -1,0 +1,41 @@
+Acomys cahirinus	2.64
+Bathyergus suillus	2.9
+Bison bison	4.9
+Bos taurus	3.61666666666667
+Callithrix jacchus	3.43
+Camelus bactrianus	2.635
+Canis lupus	2.81
+Capra hircus	3.24
+Cavia porcellus	3.835
+Chlorocebus sabaeus	3.94
+Cricetulus griseus	3.41333333333333
+Dasypus novemcinctus	5.41
+Delphinapterus leucas	3.29
+Eonycteris spelaea	2.23
+Equus asinus	4.12
+Equus caballus	3.22
+Felis catus	3.108
+Heliophobius argenteocinereus	3.05
+Hypsignathus monstrosus	2.42
+Lepus timidus	3.25
+Macaca fascicularis	3.43
+Macaca fuscata	3.56
+Macaca mulatta	3.365
+Macaca nemestrina	3.56
+Meriones unguiculatus	3.64
+Microcebus murinus	3.12
+Mus spretus	3.68
+Oryctolagus cuniculus	3.17714285714286
+Ovis aries	3.008
+Panthera tigris altaica	2.58
+Pan troglodytes	3.675
+Phascolarctos cinereus	3.69
+Rhinolophus ferrumequinum	2.22666666666667
+Rousettus aegyptiacus	2.11
+Saimiri sciureus	3.3
+Sarcophilus harrisii	3.31
+Sigmodon hispidus	3.96
+Sus scrofa domesticus	3.1675
+Sus scrofa scrofa	2.81
+Vombatus ursinus	3.99
+Zalophus californianus	3.15
